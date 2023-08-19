@@ -18,10 +18,8 @@
   <a href="https://twitter.com/SaidTopcu"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.youtube.com/user/SaidTopcu"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.instagram.com/saidtopcu.dev"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.reddit.com/user/t0pcu"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <a href="https://www.twitch.tv/saidtopcu"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
   <a href="https://medium.com/@SaidTopcu"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://steamcommunity.com/id/saidtopcu"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
 </p>
 
 ## :wave: Mentions
